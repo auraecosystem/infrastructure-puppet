@@ -1,0 +1,16 @@
+mkcert \
+local.jquery.com \
+local.api.jquery.com \
+local.blog.jquery.com \
+local.learn.jquery.com \
+local.releases.jquery.com \
+local.jqueryui.com \
+local.api.jqueryui.com \
+local.blog.jqueryui.com \
+local.jquerymobile.com \
+local.api.jquerymobile.com \
+local.blog.jquerymobile.com \
+local.jquery.org \
+local.brand.jquery.org \
+local.contribute.jquery.org \
+local.meetings.jquery.org
